@@ -41,3 +41,5 @@
 <a href="https://grafana.com/docs/grafana/latest/introduction/grafana-cloud/"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUF-muR9xjLAGhW8rtSHctBtCkQAfAbIIV-w&s" height="50"></a>
 </div>
 
+</tr>
+</table>
