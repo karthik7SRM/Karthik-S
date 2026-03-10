@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f35e1c33-14c6-490f-9a24-571c22a98bf1" width="600">
+  <img src="https://github.com/user-attachments/assets/f35e1c33-14c6-490f-9a24-571c22a98bf1" width="1000">
 </p>
 
 <h1 align="center">I AM KARTHIK S!</h1>
