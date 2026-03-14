@@ -126,3 +126,24 @@
 </tr>
 
 </table>
+
+
+### GITHUB STATS 
+![My GitHub Stats](https://readme-stats-github.pages.dev/api?username=karthik7SRM&theme=shadow)
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=karthik7SRM&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=karthik7SRM&theme=shadow)
+
+### MY PROJECTS 
+
+![readme-stats-github Stats](https://readme-stats-github.pages.dev/api/repo?username=karthik7SRM&repo=DataScienceTeam02&theme=shadow)
+![readme-stats-github Stats](https://readme-stats-github.pages.dev/api/repo?username=karthik7SRM&repo=KINGPIN&theme=shadow)
+![readme-stats-github Stats](https://readme-stats-github.pages.dev/api/repo?username=karthik7SRM&repo=freelancer-management-system&theme=shadow)
+![readme-stats-github Stats](https://readme-stats-github.pages.dev/api/repo?username=karthik7SRM&repo=employee-performance-dashboard&theme=shadow)
+![readme-stats-github Stats](https://readme-stats-github.pages.dev/api/repo?username=karthik7SRM&repo=scoutai&theme=shadow)
+![readme-stats-github Stats](https://readme-stats-github.pages.dev/api/repo?username=karthik7SRM&repo=KINGPIN&theme=shadow)
+![readme-stats-github Stats](https://readme-stats-github.pages.dev/api/repo?username=karthik7SRM&repo=autistic&theme=shadow)
+![readme-stats-github Stats](https://readme-stats-github.pages.dev/api/repo?username=karthik7SRM&repo=hermescorpe&theme=shadow)
+![readme-stats-github Stats](https://readme-stats-github.pages.dev/api/repo?username=karthik7SRM&repo=finlens-hackathon&theme=shadow)
+![readme-stats-github Stats](https://readme-stats-github.pages.dev/api/repo?username=karthik7SRM&repo=KINGPIN&theme=shadow)
+![readme-stats-github Stats](https://readme-stats-github.pages.dev/api/repo?username=karthik7SRM&repo=crime-hotspots-dashboard&theme=shadow)
+![readme-stats-github Stats](https://readme-stats-github.pages.dev/api/repo?username=karthik7SRM&repo=patient-appointment-system&theme=shadow)
